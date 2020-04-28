@@ -1,5 +1,5 @@
 # Picture-picker
-When pointed at a folder of pictures, the program selects some at random and cycles through them on a display. It then stop on a "winner"
+When pointed at a folder of pictures, the program selects some at random and cycles through them on a display. It then stops on a "winner"
 
 When using the program, open it and resize the window to fit as desired. Do this before you start the slideshow to keep the size you want throughout.
 The pictures must be in landscape as the program does not automatically flip any taken in portrait. 
